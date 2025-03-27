@@ -8,6 +8,13 @@ const HeroSection = styled.section`
   align-items: center;
   padding: 0 4rem;
   margin-top: -80px;
+
+  background-image: url('/images/hero-background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  color: white;
 `;
 
 const HeroContent = styled.div`
