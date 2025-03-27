@@ -45,6 +45,7 @@ const ProjectsContainer = styled.section`
   padding: 4rem 2rem; /* Add padding around the gallery */
   max-width: 1200px;
   margin: 0 auto; /* Center the gallery */
+  padding-top: 100px; /* Adjust this value based on your navbar height */
 `;
 
 const PageTitle = styled.h1`

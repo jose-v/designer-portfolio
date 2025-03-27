@@ -7,6 +7,7 @@ const AboutContainer = styled.section`
   max-width: 800px;
   margin: 0 auto;
   text-align: center;
+  padding-top: 100px; /* Adjust this value based on your navbar height */
 `;
 
 const PageTitle = styled.h1`
