@@ -9,7 +9,7 @@ const projectsData = [
     title: 'Project One',
     description: 'A brief description of the first project.',
     // Placeholder image URL (600x400)
-    imageUrl: 'https://via.placeholder.com/600x400.png?text=Project+One',
+    imageUrl: 'https://placehold.co/600x400?text=Project+One',
     link: '#', // Link to project details or live site
   },
   {
@@ -17,7 +17,7 @@ const projectsData = [
     title: 'Project Two',
     description: 'Details about the second creative work.',
     // Placeholder image URL (600x400)
-    imageUrl: 'https://via.placeholder.com/600x400.png?text=Project+Two',
+    imageUrl: 'https://placehold.co/600x400?text=Project+Two',
     link: '#',
   },
   {
@@ -25,7 +25,7 @@ const projectsData = [
     title: 'Project Three',
     description: 'Showcasing the third piece in the portfolio.',
     // Placeholder image URL (600x400)
-    imageUrl: 'https://via.placeholder.com/600x400.png?text=Project+Three',
+    imageUrl: 'https://placehold.co/600x400?text=Project+Three',
     link: '#',
   },
   // Add more projects as needed, using similar placeholder URLs
