@@ -67,14 +67,6 @@ function Home() {
         >
           View My Work
         </CTAButton>
-        <motion.p
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: 0.8, delay: 0.6 }}
-          style={{ marginTop: '1rem', fontSize: '0.9rem', color: '#555' }}
-        >
-          Testing the automatic deployment! This text should appear on the live site.
-        </motion.p>
       </HeroContent>
     </HeroSection>
   );
